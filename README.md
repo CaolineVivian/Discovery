@@ -1,2 +1,1 @@
-# Discovery
-# Discovery
+# Life Discovery Website
